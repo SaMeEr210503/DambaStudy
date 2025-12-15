@@ -91,7 +91,8 @@ npm install
 
 **.env file contents:**
 ```env
-MONGO_URL=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster.mongodb.net/DambaDB
+MONGO_URL="your url"
+
 JWT_SECRET=your_super_secret_key_here
 PORT=5000
 ```
@@ -227,4 +228,5 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ Star this repo if you found it helpful!
+
 
