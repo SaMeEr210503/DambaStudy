@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: damba-backend
+    env: node
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 4000
