@@ -203,12 +203,6 @@ npm run seed     # Seed database
 3. Set environment variables
 4. Deploy
 
-## 📸 Screenshots
-
-| Home Page | Course Details | Dashboard |
-|-----------|----------------|-----------|
-| Dark theme hero | Video lessons | Progress tracking |
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -228,5 +222,6 @@ This project is licensed under the MIT License.
 ---
 
 ⭐ Star this repo if you found it helpful!
+
 
 
